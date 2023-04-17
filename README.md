@@ -38,7 +38,7 @@
     <!-- Linux -->
     <img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=181717&logo=Linux&logoColor=ffffff&label=" />
     <!-- qemu -->
-    <img alt="QEMU" src="https://img.shields.io/static/v1?style=for-the-badge&message=QEMU&color=F05032&logo=QEMU&logoColor=FFFFFF&label=" />
+    <img alt="QEMU/KVM" src="https://img.shields.io/static/v1?style=for-the-badge&message=QEMU/KVM&color=F05032&logo=QEMU&logoColor=FFFFFF&label=" />
     <!-- visual studio code -->
     <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
 </p>
