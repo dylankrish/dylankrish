@@ -16,8 +16,6 @@
     <img alt="npm" src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" />
     <!-- yarn -->
     <img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=" />
-    <!-- .net -->
-    <img alt=".NET" src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=" />
     <!-- docker -->
     <img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
     <!-- python -->
