@@ -1,6 +1,7 @@
 # Hey! I'm Dylan. 👋
 
 - 🐍 Python developer.
+- ☕️ Experienced in Java as well.
 - 🌱 Currently learning Javascript.
 - 💉 Intern at Pfizer Inc.
 - 📚 Majoring in Information Sciences and Technology at the Penn State College of IST.
