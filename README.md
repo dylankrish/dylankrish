@@ -38,8 +38,8 @@
     <img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
     <!-- Markdown -->
     <img alt="Markdown" src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=" />
-    <!-- Linux -->
-    <img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=181717&logo=Linux&logoColor=ffffff&label=" />
+    <!-- GNU/Linux -->
+    <img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU/Linux&color=181717&logo=Linux&logoColor=ffffff&label=" />
     <!-- qemu -->
     <img alt="QEMU/KVM" src="https://img.shields.io/static/v1?style=for-the-badge&message=QEMU/KVM&color=F05032&logo=QEMU&logoColor=FFFFFF&label=" />
     <!-- visual studio code -->
