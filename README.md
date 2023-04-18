@@ -4,7 +4,7 @@
 - ☕️ Experienced in Java as well.
 - 🌱 Currently learning Javascript.
 - 💉 Intern at Pfizer Inc.
-- 📚 Majoring in Cybersecurity at the Penn State College of IST.
+- 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
 
 <h3>I have experience with:</h3>
 <p>
