@@ -49,7 +49,7 @@
 <h3>You can find me at:</h3>
 <p>
     <!-- website -->
-    <a href="https://dylankri.sh" target="_blank"><img alt "dylankri.sh" src="https://img.shields.io/static/v1?style=for-the-badge&message=dylankri.sh&color=FFD580&logo=Internet+Explorer&logoColor=000000&label=">
+    <a href="https://dylankri.sh" target="_blank"><img alt "dylankri.sh" src="https://img.shields.io/static/v1?style=for-the-badge&message=dylankri.sh&color=FFD580&logo=Safari&logoColor=000000&label=">
     <!-- github -->
     <a href="https://github.com/dylankrish" target="_blank"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=@dylankrish&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
     <!-- linkedin -->
