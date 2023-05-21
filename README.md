@@ -1,5 +1,6 @@
-# Hey! I'm Dylan. 👋
+<p align="center"> <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:FF6F3C,100:a82da8&animation=fadeIn&section=header&text=Dylan+Krishnan&fontColor=ffffff&fontSize=65">
 
+About me:
 - 🐍 Python developer.
 - ☕️ Experienced in Java as well.
 - 🌱 Currently learning Javascript.
@@ -21,3 +22,5 @@
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/dylan-krishnan-8bb963251" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Dylan+Krishnan&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=">
 </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:FF6F3C,100:a82da8&animation=fadeIn&section=footer">
