@@ -3,12 +3,12 @@
 About me:
 - 🐍 Python developer.
 - ☕️ Experienced in Java as well.
-- 🌱 Currently learning Javascript.
+- 🌱 Currently learning Javascript and Go.
 - 💉 Intern at Pfizer Inc.
 - 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,golang,html,css,mysql,postgresql,docker" />
 </p>
 
 <h3>Find me at:</h3>
