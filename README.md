@@ -3,7 +3,7 @@
 About me:
 - 🐍 Python developer.
 - ☕️ Experienced in Java as well.
-- 🌱 Currently learning Javascript and Go.
+- 🌱 Currently learning Javascript.
 - 💉 Intern at Pfizer Inc.
 - 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
 
