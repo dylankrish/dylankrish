@@ -8,7 +8,7 @@ About me:
 - 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,electron,mysql,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,rust,javascript,html,css,electron,tauri,mysql,postgresql,docker" />
 </p>
 
 <h3>Find me at:</h3>
