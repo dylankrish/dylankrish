@@ -3,7 +3,7 @@
 About me:
 - 🐍 Python developer.
 - ☕️ Experienced in Java as well.
-- 🌱 Currently learning Javascript and Rust.
+- 🌱 Currently learning Web Development
 - 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
 
 <p align="center">
