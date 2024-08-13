@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:FF6F3C,100:a82da8&animation=fadeIn&section=header&text=Dylan+Krishnan&fontColor=ffffff&fontSize=65">
 
 About me:
-- 🐍 Python developer.
-- ☕️ Experienced in Java as well.
-- 🌱 Currently learning Web Development
-- 📚 Majoring in Cybersecurity Analytics and Operations at the Penn State College of IST.
+- 🐍 Python developer
+- ☕️ Experienced in Java
+- 🌱 Learning Web Development
+- 📚 Majoring in Cybersecurity Analytics and Operations - Penn State College of IST
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,electron,tauri,mysql,postgresql,docker" />
@@ -19,7 +19,7 @@ About me:
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/dylan-krishnan-8bb963251" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Dylan+Krishnan&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=">
     <!-- download CV -->
-    <a href="https://github.com/dylankrish/dylankrish/raw/main/Dylan%20Krishnan%20Resume.pdf" target="_blank"><img alt="Download Resume" src="https://img.shields.io/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=">
+    <a href="https://dylankri.sh/Dylan%20Krishnan%20Cybersecurity%20Resume.pdf" target="_blank"><img alt="Open Resume" src="https://img.shields.io/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=">
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:FF6F3C,100:a82da8&animation=fadeIn&section=footer">
