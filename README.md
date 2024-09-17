@@ -17,7 +17,7 @@ About me:
     <!-- github -->
     <a href="https://github.com/dylankrish" target="_blank"><img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=@dylankrish&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/dylan-krishnan-8bb963251" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Dylan+Krishnan&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=">
+    <a href="https://www.linkedin.com/in/dylan-krishnan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Dylan+Krishnan&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=">
     <!-- download CV -->
     <a href="https://dylankri.sh/Dylan%20Krishnan%20Cybersecurity%20Resume.pdf" target="_blank"><img alt="Open Resume" src="https://img.shields.io/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=">
 </p>
