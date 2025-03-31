@@ -4,7 +4,8 @@ About me:
 - 🐍 Python developer
 - ☕️ Experienced in Java
 - 🌱 Learning Web Development
-- 📚 Majoring in Cybersecurity Analytics and Operations - Penn State College of IST
+- 💉 Pfizer Intern
+- 📚 Cybersecurity Major at Penn State
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,electron,tauri,mysql,postgresql,docker" />
