@@ -4,7 +4,6 @@ About me:
 - 🐍 Python developer
 - ☕️ Experienced in Java
 - 🌱 Learning Web Development
-- 💉 Pfizer Intern
 - 📚 Cybersecurity Major at Penn State
 
 <p align="center">
