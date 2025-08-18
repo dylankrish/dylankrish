@@ -7,7 +7,7 @@ About me:
 - 📚 Cybersecurity Major at Penn State
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,electron,tauri,mysql,postgresql,docker" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,java,html,css3,js,electron,tauri,mysql,postgresql,snowflake,docker" />
 </p>
 
 <h3>Find me at:</h3>
