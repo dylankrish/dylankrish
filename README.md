@@ -19,7 +19,7 @@ About me:
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/dylan-krishnan/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Dylan+Krishnan&color=0077B5&logo=linkedin-white&logoColor=FFFFFF&label=">
     <!-- download CV -->
-    <a href="https://dylankri.sh/Dylan_Krishnan_resume.pdf" target="_blank"><img alt="Open Resume" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Open+Resume&color=FF5555&logo=file-text&logoSource=feather&logoColor=FFFFFF&label=">
+    <a href="https://dylankri.sh/Dylan_Krishnan_resume.pdf" target="_blank"><img alt="Open Resume" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Download+Resume&color=FF5555&logo=file-text&logoSource=feather&logoColor=FFFFFF&label=">
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:FF6F3C,100:a82da8&animation=fadeIn&section=footer">
